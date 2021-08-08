@@ -21,5 +21,6 @@
 - 1주차: [프로세스와 스레드](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-B%5D%20%EC%9D%B4%EA%B2%BD%EB%AF%B8_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%5BOS%5D%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 
 ## 서진환
-- [디렉토리]()
-- 1주차: [프로토타입]()
+- [디렉토리](https://github.com/prgrms-web-devcourse/FE-August-study/tree/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%84%9C%EC%A7%84%ED%99%98_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94)
+- 1주차: [프로토타입](https://github.com/prgrms-web-devcourse/FE-August-study/blob/Week1/Yohan%5DStudy/%5B1%EA%B8%B0-A%5D%20%EC%84%9C%EC%A7%84%ED%99%98_1%EC%A3%BC%EC%B0%A8%20%EC%8A%A4%ED%84%B0%EB%94%94/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
+
