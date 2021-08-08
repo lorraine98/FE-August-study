@@ -13,7 +13,7 @@
 
 
 ## 윤승록
-- [디렉토리](./[1기-B] 윤승록_1주차 스터디)
-- 1주차: [3-Way Handshake와 4-Way Handshake](./[1기-B] 윤승록_1주차 스터디/[1주차 스터디] 우리는 어떻게 다양한 사이트를 여행 다닐 수 있을까 - 브라우저 동작 원리(1).md)
+- [디렉토리](./[1기-B]_윤승록_1주차_스터디)
+- 1주차: [3-Way Handshake와 4-Way Handshake](./[1기-B]_윤승록_1주차_스터디/TCP-3wayhandshake-4wayhandshake.md)
 
 
